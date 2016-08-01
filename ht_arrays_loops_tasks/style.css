@@ -1,0 +1,21 @@
+fieldset{
+    margin: auto;
+    width: 80%;
+}
+div{
+    padding: 20px 20px 20px 20px;
+    margin: 5% auto;
+    width: 40%;
+    background: aquamarine;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+#form{
+    margin: 2% auto;
+    background: lightgrey;
+}
